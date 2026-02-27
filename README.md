@@ -1,0 +1,1 @@
+Understanding the basics of quant trading strategies and important mathemetical indicators or simulations including but not limited to: momentum trading, pairs trading, monte carlo simulations. <br><br> An additional ideas document will also follow allowing me to jot down different ideas that may pop up as I continue to learn
